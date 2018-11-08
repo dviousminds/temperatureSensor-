@@ -1,0 +1,4 @@
+Usage: compile using "make temp"
+run using "./temp "Temp sensor ID"
+
+Sends an IFTTT webhook request when temperature difference is greater than 1
